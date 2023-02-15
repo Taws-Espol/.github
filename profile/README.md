@@ -18,9 +18,7 @@ tecnologías informáticas
 <br>
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Proyectos</b>
-
-<p align="center">
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="50"> Proyectos
 
    
 - **Proyectos TAWS & Pre-TAWS**:
@@ -34,7 +32,15 @@ tecnologías informáticas
 <br>
 
 
-## <img src="https://github.com/Taws-Espol/.github/blob/main/handshake.gif" width ="80"><b> Conéctemos!</b>
+## <img src="https://media3.giphy.com/media/PNhSA7Zx4eDGvbL8qs/giphy.gif?cid=ecf05e47yj7l06q7mgb09p0z8uq7ckx59f7g8tbr7lrov98a&rid=giphy.gif" width ="50">Eventos
+
+- TAWS organiza anualmente (desde el 2020) el evento [Women in Data Science Guayaquil@ESPOL](https://wids.espol.edu.ec/) (WiDS). Visita nuestra página web, y entérate al tanto con este increíble evento
+- Datathons internos
+- Hackathons internos
+- ESPOL Advent of Code 
+- Datajam (ediciones 2018, 2019) 
+
+## Conéctemos! <img src="https://github.com/Taws-Espol/.github/blob/main/handshake.gif" width ="70">
 <br>
 <div align='left'>
 
