@@ -5,11 +5,8 @@
 </p>
 
 
-<br>
 
-
-
-<h2>Sobre Nosotros</h2>
+## Sobre nosotros
 <picture> <img align="right" src="https://github.com/Taws-Espol/.github/blob/main/logoTaws.png" width = 250px></picture>
 Taws es por su naturaleza, un grupo estudiantil sin fines de lucro, sin discriminación de género, nacionalidad,
 raza, condición social, ideología, limitaciones físicas, mentales y/o sensoriales, que busca contribuir a la formación
@@ -64,9 +61,6 @@ tecnologías informáticas
 </div>
 
 <br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
+
 
 Última edición: Febrero 15, 2023
